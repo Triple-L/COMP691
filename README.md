@@ -10,6 +10,7 @@ Quiz1:
  * DOF and corresponing points 
  * Hough transfer 伪代码 
  * Bag of feature
+   * Item 2a
 3. 2个大题
   * 描述Harris corner detection过程 
   * 解释RANSAC过程
