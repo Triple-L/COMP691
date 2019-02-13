@@ -1,5 +1,5 @@
 # COMP691
-##Notes for COMP691_2019 winter 
+## Notes for COMP691_2019 winter 
 
 2019-02-12
 Quiz1:
