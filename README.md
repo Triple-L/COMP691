@@ -14,3 +14,18 @@
     * 描述Harris corner detection过程 
     * 解释RANSAC过程
 
+### Assignment2
+
+1. Harris corner detection
+input:Imgae
+output: dst_array the C value of each pixel
+
+Using the Non_maxium suppresion to keep the max interest points in 3*3 kernel.
+
+For Non-maxium suppression:
+
+2. descriptor
+
+3. Macthing
+
+
