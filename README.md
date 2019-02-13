@@ -6,10 +6,11 @@ Quiz1:
 
 1. 20个选择题
 2. 4个简答
+
   * 计算interger image 
-  2. DOF and corresponing points 
-  3. Hough transfer 伪代码 
-  4. Bag of feature
+  * DOF and corresponing points 
+  * Hough transfer 伪代码 
+  * Bag of feature
 3. 2个大题
   1. 描述Harris corner detection过程 
   2. 解释RANSAC过程
