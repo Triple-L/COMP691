@@ -4,11 +4,9 @@ Notes for COMP691_2019 winter
 2019-02-12
 Quiz1:
 
-*20 选择题
-
-*4 简答
-
-*2 大题
+1. 20个选择题
+2. 4个简答
+3. 2个大题
 
 简答：1.计算interger image 2.DOF and corresponing points 3.Hough transfer 伪代码 4.Bag of feature
 
