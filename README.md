@@ -1,4 +1,3 @@
-# COMP691
 ## Notes for COMP691_2019 winter 
 
 
