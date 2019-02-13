@@ -2,7 +2,7 @@
 ## Notes for COMP691_2019 winter 
 
 2019-02-12
-Quiz1:
+### Quiz1:
 
 1. 20个选择题
 2. 4个简答
