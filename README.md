@@ -31,9 +31,9 @@ Slides 11
 2. Understand why and how find l'.
 3. Depth and Disparity.(Binocular idea) 
 4. Basic stereo matching algorithm.
-   Effect of window size
-   Failure of correspondence search.
-   Constraints.
+    * Effect of window size
+    * Failure of correspondence search.
+    * Constraints.
    
 Slides 12
 1. Epipolar geometry
@@ -51,13 +51,10 @@ Slides 14
 1. Matching method
 2. Optical flow
 3. Segmentation of video
-
-    Background subtraction
-    
-    Motion segmentation
-    
-    Improving video quality
-    Video compression
+ * Background subtraction
+ * Motion segmentation
+ * Improving video quality
+ * Video compression
 4. Motion and perseptual organization
 5. Aperture problem and solving ambiguity
 6. Lucas-kanade 
@@ -66,12 +63,12 @@ Slides 15
 1. Challenge in modeling the object class
 2. General process of object recognition
 3. Viala Jones Face detector
-    rectangle filters
-    integral image
-    feature select,
-    boosting(training procedure) (!)
-    Attentional cascade (training procedure)
-    Dalal-Triggs pedestrian detector
+     * rectangle filters
+     * integral image
+     * feature select,
+     * boosting(training procedure) (!)
+     * Attentional cascade (training procedure)
+     * Dalal-Triggs pedestrian detector
    
    
 
