@@ -21,16 +21,16 @@ Slides 9:
 2.Recognizing Panoramas
 
 Slide 10.
-1.Understand Projection matrix
-2.Intrinsic and Extrinsic parameters(!)
-3.Vanishing points and lines
-4.Homogeneous coordinate
+1. Understand Projection matrix
+2. Intrinsic and Extrinsic parameters(!)
+3. Vanishing points and lines
+4. Homogeneous coordinate
 
 Slides 11
-1.What cues help us to perceive 3d shape and depth?
-2.Understand why and how find l'.
-3.Depth and Disparity.(Binocular idea) 
-4.Basic stereo matching algorithm.
+1. What cues help us to perceive 3d shape and depth?
+2. Understand why and how find l'.
+3. Depth and Disparity.(Binocular idea) 
+4. Basic stereo matching algorithm.
    Effect of window size
    Failure of correspondence search.
    Constraints.
