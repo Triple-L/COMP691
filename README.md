@@ -51,10 +51,10 @@ Slides 14
 1. Matching method
 2. Optical flow
 3. Segmentation of video
- * Background subtraction
- * Motion segmentation
- * Improving video quality
- * Video compression
+   * Background subtraction
+   * Motion segmentation
+   * Improving video quality
+   * Video compression
 4. Motion and perseptual organization
 5. Aperture problem and solving ambiguity
 6. Lucas-kanade 
