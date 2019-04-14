@@ -1,0 +1,16 @@
+#CV assignment2
+Lili Liu
+ID 40087402
+
+1.Read imgae files
+2.Harris corner detection and Local_Maxia
+decteKeypoints of images
+    computeHarrisValues
+    computeLocalMaxima
+    Get the output of features
+3.Using the describetor
+    For this step using the SIFT Descriptor.
+4.Match the two feature points selected from the two pictures.
+    Using the SSD method to compute the distance of two descriptors.
+
+
