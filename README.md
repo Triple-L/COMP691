@@ -1,7 +1,9 @@
 ## Notes for COMP691_2019 winter @Concordia
 这门课挺难的，却很有意思，为之付出良多在此留个纪念。
 
-[Assignment1 description](http://google.com)
+[Assignment1 Description](https://github.com/Triple-L/Computer-Vision/blob/master/Assignments%26project/Assignment1.pdf) [code source]
+
+[Assignment2 Description](https://github.com/Triple-L/Computer-Vision/blob/master/Assignments%26project/Assignment2.pdf) [code source]
 
 
 ### Quiz1(2019-02-12):
