@@ -1,6 +1,8 @@
 ## Notes for COMP691_2019 winter @Concordia
 这门课挺难的，却很有意思，为之付出良多在此留个纪念。
 
+[Assignment1 description](http://google.com)
+
 
 ### Quiz1(2019-02-12):
 
